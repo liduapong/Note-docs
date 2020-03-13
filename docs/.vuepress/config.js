@@ -8,7 +8,7 @@ module.exports = {
     themeConfig: {
       author: 'liduapong',
       logo: '/gangan.gif',//首页左上角侧头像
-      authorAvatar: '/hh.png',//首页右侧头像
+      authorAvatar: '/22.jpeg',//首页右侧头像
       sidebar: 'auto',
       sidebarDepth: 3,//在所有页面中启用自动生成侧栏,
       type: 'blog',
