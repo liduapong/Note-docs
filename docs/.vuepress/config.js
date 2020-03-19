@@ -3,7 +3,26 @@ module.exports = {
     base: '/Note-docs/',
     evergreen: true,
     description: '测试文档',
-
+    valineConfig: {
+      appId: 'PHsqyHC4ifAXIgGtzz5LtqYL-gzGzoHsz',// your appId
+      appKey: '92SD1GR76mWKiEiy0b8n4khG', // your appKey
+    },
+    plugins: [
+      [
+        "@vuepress-reco/vuepress-plugin-kan-ban-niang",
+        {
+          theme: ["whiteCat"],
+          clean: true,
+          modelStyle: {
+            position: "fixed",
+            left: "10px",
+            bottom: "10px",
+            opacity: "0.9",
+            zIndex: 99999
+          }
+        }
+      ]
+    ],
     theme: 'reco',
     themeConfig: {
       author: 'liduapong',
