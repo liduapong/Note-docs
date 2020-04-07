@@ -16,7 +16,7 @@ publish: true #是否公开
 * [Git](https://git-scm.com) 是目前世界上最先进的分布式版本管理工具。通常采用git命令行工具跟 [Smartgit](https://www.syntevo.com/smartgit) 混合使用。Smartgit用来看log和处理版本冲突非常简单。
 
 * 工作流程
-    ![git](../asset/git.png)
+    ![git](../../asset/git.png)
     ```
     Workspace：工作区
     Index / Stage：暂存区
