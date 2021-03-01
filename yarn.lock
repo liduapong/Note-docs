@@ -1005,6 +1005,11 @@
   resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.3.tgz#aed545a2ef13f52d92c1c904efc2225c89b99d2c"
   integrity sha512-b8NQKZfGMybIrmLKQp3NQO4zo+hzOEOBzHT6gYOc9Lc0YCB3ZziTniVIUApbGVE7SJYnDFVZrTAWCzrfl+fipA==
 
+"@vuepress-reco/vuepress-plugin-kan-ban-niang@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-kan-ban-niang/-/vuepress-plugin-kan-ban-niang-1.0.5.tgz#73b47094f1a07af05923fe9ae6c25a4c33586168"
+  integrity sha512-ufqpOw0zhLxv3PvoYlHTsjmG4CFiCaQ8dnf950Ov7JmajKgpAMarZ3ObB+xi5ex0sgetxU82YSf+CptQceXQIw==
+
 "@vuepress-reco/vuepress-plugin-loading-page@1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-loading-page/-/vuepress-plugin-loading-page-1.0.5.tgz#384486fa7ab7780b9282bb557ea41431047f081f"
@@ -6143,9 +6148,9 @@ pretty-time@^1.1.0:
   integrity sha512-28iF6xPQrP8Oa6uxE6a1biz+lWeTOAPKggvjB8HAs6nVMKZwf5bG++632Dx614hIWgUPkgivRfG+a8uAXGTIbA==
 
 prismjs@^1.13.0:
-  version "1.19.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.19.0.tgz#713afbd45c3baca4b321569f2df39e17e729d4dc"
-  integrity sha512-IVFtbW9mCWm9eOIaEkNyo2Vl4NnEifis2GQ7/MLRG5TQe6t+4Sj9J5QWI9i3v+SS43uZBlCAOn+zYTVYQcPXJw==
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.23.0.tgz#d3b3967f7d72440690497652a9d40ff046067f33"
+  integrity sha512-c29LVsqOaLbBHuIbsTxaKENh1N2EQBOHaWv7gkHN4dgRbxSREqDnDbtFJYdpPauS4YCplMSNCABQ6Eeor69bAA==
   optionalDependencies:
     clipboard "^2.0.0"
 
