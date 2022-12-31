@@ -2,7 +2,7 @@
   "devDependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.2",
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
-    "vuepress": "^0.14.11",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-live2d": "^0.0.7",
     "vuepress-plugin-ribbon": "^1.0.0"
   },
@@ -11,6 +11,6 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress-theme-reco": "^1.2.2"
+    "vuepress-theme-reco": "^1.6.10"
   }
 }
